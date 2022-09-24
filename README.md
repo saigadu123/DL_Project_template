@@ -1,1 +1,1 @@
-# Deep classifier project
+# Deep learning classifier project
