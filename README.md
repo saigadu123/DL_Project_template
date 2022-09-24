@@ -1,3 +1,2 @@
 # Deep classifier project
 
-# Hello
